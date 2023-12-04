@@ -97,4 +97,4 @@ _mean_epe_
 | 4.493           | 7.047          | 0.0183              |
 
 
-[График метрики](https://github.com/Simraki/CV_2023_lab_6/blob/master/images/plot.png)
+![График метрики](https://github.com/Simraki/CV_2023_lab_6/blob/master/images/plot.png)
